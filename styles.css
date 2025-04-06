@@ -744,10 +744,9 @@ nav ul li a:hover {
 
 /* Footer */
 footer {
-    background: #d32f2f;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 1px;
 }
 
 .training {
